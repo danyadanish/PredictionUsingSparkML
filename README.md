@@ -9,8 +9,7 @@ nyc-taxi-analysis/
 ├── data/
 │   ├── taxitripdata.csv          # Raw trip data
 │   ├── taxizonegeo.csv           # Zone geographic data
-├── notebooks/
-│   └── preditctionSparkML.ipynb  # Jupyter notebook with analysis                 
+├── preditctionSparkML.ipynb      # Jupyter notebook with analysis            
 ├── README.md                     # This file
 ```
 
